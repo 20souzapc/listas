@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/558706639/redetvtwitter_400x400.jpg" group-title="ABERTO" pltv-subgroup="REDE TV 01", REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w695660441.m3u8
